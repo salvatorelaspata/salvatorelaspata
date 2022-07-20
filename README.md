@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p>
-<h1 align="left">Hi 👋, I'm Salvatore</h1>
-<h3 align="left">Full stack developer from Italy</h3>
-</p>
-<p align="left">
-  At development work i development of applications in SAP systems (SAP on premise & SAP BTP ex SCP). 
-  In my spare time I study NodeJS and ReactJS.
-  I am delving into Cloud Computing
+  <h1 align="left">Hi 👋, I'm Salvatore</h1>
+  <h3 align="left">Full stack developer from Italy</h3>
 </p>
 
+At work i development applications on SAP Systems Architecture (Hana, Abap, Sapui5).
 
-- 🔭 I’m currently working on **Cube Consultants** as a full stack developer on SAP technologies
+But i ❤️ NodeJS as runtime and ReactJS for the frontend..
 
-- 🌱 I’m currently learning **Cloud Native Architecture**
+- 🔭 currently working on **Cube Consultants** as a full stack developer
+
+- 🌱 lately I have been spending some time studying **cloud technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,25 +58,5 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/> 
-  </a> 
-  <!-- 
-  <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  -->
+  </a>
 </p>
-<!--
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salvatorelaspata&show_icons=true&locale=en&layout=compact" alt="salvatorelaspata" />
-</p>
--->
