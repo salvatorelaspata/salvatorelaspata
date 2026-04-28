@@ -14,49 +14,81 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="left">Hi 👋, I'm Salvatore</h1>
+<h3 align="left">SAP BTP Architect & Full Stack Developer · Italy 🇮🇹</h3>                                       
+ 
+<br/>                                                                                                           
+                
+Full Stack Developer with **12+ years of experience**, specialized in SAP enterprise architectures and modern web development. Born in Sicily, based in Rome. Currently working as **Practice Leader - SAP BTP** at [GOTONEXTSRL](https://gotonext.it), leading a team of 16 professionals.
 
-<p>
-  <h1 align="left">Hi 👋, I'm Salvatore</h1>
-  <h3 align="left">Full stack developer from Italy</h3>
-</p>
+---
 
-At work i development applications on SAP Systems Architecture (Hana, Abap, Sapui5).
+### 🔭 What I do
 
-But i ❤️ NodeJS as runtime and ReactJS for the frontend..
+- **SAP BTP Architect** — design and implement cloud/on-premise SAP solutions (CAP, ABAP, RAP, SAPUI5, OData,
+Integration Suite)
+- **Full Stack Developer** — React, Node.js, TypeScript, Fastify, PostgreSQL, MongoDB
+- **Team Leader** — coordinate and mentor a cross-functional team of developers and consultants
 
-- 🔭 currently working on **Cube Consultants** as a full stack developer
+---
 
-- 🌱 lately I have been spending some time studying **cloud technologies**
+### 🛠️  Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/salvatore-la-spata-79b406b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salvatore-la-spata-79b406b5/" height="30" width="40" /></a>
-</p>
+**Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://sap.com/" target="_blank" rel="noreferrer">
-    <img src="https://loghi-famosi.com/wp-content/uploads/2022/02/SAP-Logo.png" alt="sap" title="SAP ABAP - SAP BTP" width="auto" height="40"/> 
-  </a> 
-  <a href="https://ui5.sap.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://openui5.org/5bdd288371ed8100415f04563acc8dfe/phenix_blue.svg" alt="sapui5" title="SAPUI5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TS" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" title="NodeJS" alt="nodejs" width="auto" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React/ReactNative" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" title="GIT" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/> 
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0070F2?style=flat&logo=sap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+
+**SAP Ecosystem**
+
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0070F2?style=flat&logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0070F2?style=flat&logo=sap&logoColor=white)
+![SAP RAP](https://img.shields.io/badge/SAP_RAP-0070F2?style=flat&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0070F2?style=flat&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0070F2?style=flat&logo=sap&logoColor=white)
+![SAP Integration
+Suite](https://img.shields.io/badge/Integration_Suite-0070F2?style=flat&logo=sap&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 🚀 Side Projects
+
+- **[Personal Annotation](https://github.com/salvatorelaspata/my-annotation-extension)** — Chrome extension for web page annotation · [ChromeStore](https://chromewebstore.google.com/detail/personal-annotation/jcfcndknemifbpngmkicoeahmaemjcbk)
+- **SAP Docker Labs** — Containerized SAP dev environments (NetWeaver, WebIDE, Cloud Connector)
+- **[SAPUI5 Explorer](https://github.com/salvatorelaspata/sapui5-explorer-extension)** — VS Code extension for SAPUI5 development
+- **[OData ↔ SQL](https://github.com/salvatorelaspata/odata-to-sql)** — Bidirectional OData/SQL query converter
+- **[Viewer 3D Lit](https://github.com/salvatorelaspata/viewer-3d-lit)** — 3D model viewer built with Lit Web
+Components
+
+---
+
+### 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/salvatore-la-spata-79b406b5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" 
+alt="LinkedIn"/>
+</a>
+<a href="https://salvatorelaspata.net" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=astro&logoColor=white" alt="Website"/>
+</a>
